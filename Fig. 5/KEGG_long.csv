@@ -1,0 +1,571 @@
+Nm,Class,Count,Genome
+116,Amino acid metabolism,1,ZJ_WZ_2021_05_15_bin_1
+115,Amino acid metabolism,3,ZJ_NB_2021_05_15_bin_8
+115,Carbohydrate metabolism,2,ZJ_NB_2021_05_15_bin_8
+115,Energy metabolism,2,ZJ_NB_2021_05_15_bin_8
+115,Metabolism of cofactors and vitamins,7,ZJ_NB_2021_05_15_bin_8
+115,Nucleotide metabolism,7,ZJ_NB_2021_05_15_bin_8
+115,Xenobiotics biodegradation and metabolism,1,ZJ_NB_2021_05_15_bin_8
+114,Biosynthesis of other secondary metabolites,3,SD_QD_2023_07_40_ultra_bin_11
+114,Carbohydrate metabolism,12,SD_QD_2023_07_40_ultra_bin_11
+114,Energy metabolism,3,SD_QD_2023_07_40_ultra_bin_11
+114,Metabolism of terpenoids and polyketides,2,SD_QD_2023_07_40_ultra_bin_11
+114,Nucleotide metabolism,5,SD_QD_2023_07_40_ultra_bin_11
+114,Xenobiotics biodegradation and metabolism,2,SD_QD_2023_07_40_ultra_bin_11
+113,Carbohydrate metabolism,1,SD_QD_2023_07_40_normal_bin_12
+113,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_40_normal_bin_12
+113,Nucleotide metabolism,3,SD_QD_2023_07_40_normal_bin_12
+113,Xenobiotics biodegradation and metabolism,2,SD_QD_2023_07_40_normal_bin_12
+112,Metabolism of cofactors and vitamins,1,SD_QD_2020_12_15_bin_7
+111,Lipid metabolism,2,SD_QD_2020_06_15_bin_27
+111,Metabolism of other amino acids,1,SD_QD_2020_06_15_bin_27
+111,Nucleotide metabolism,3,SD_QD_2020_06_15_bin_27
+111,Xenobiotics biodegradation and metabolism,2,SD_QD_2020_06_15_bin_27
+110,Amino acid metabolism,2,SD_QD_2020_06_15_bin_10
+110,Carbohydrate metabolism,1,SD_QD_2020_06_15_bin_10
+110,Energy metabolism,1,SD_QD_2020_06_15_bin_10
+110,Nucleotide metabolism,5,SD_QD_2020_06_15_bin_10
+110,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_10
+109,Amino acid metabolism,4,SD_DY_2021_06_15_bin_5
+109,Biosynthesis of other secondary metabolites,1,SD_DY_2021_06_15_bin_5
+109,Carbohydrate metabolism,19,SD_DY_2021_06_15_bin_5
+109,Energy metabolism,1,SD_DY_2021_06_15_bin_5
+109,Metabolism of cofactors and vitamins,4,SD_DY_2021_06_15_bin_5
+109,Nucleotide metabolism,2,SD_DY_2021_06_15_bin_5
+108,Amino acid metabolism,1,GX_BH_2021_04_15_bin_2
+108,Carbohydrate metabolism,5,GX_BH_2021_04_15_bin_2
+108,Metabolism of cofactors and vitamins,1,GX_BH_2021_04_15_bin_2
+108,Nucleotide metabolism,5,GX_BH_2021_04_15_bin_2
+108,Xenobiotics biodegradation and metabolism,1,GX_BH_2021_04_15_bin_2
+107,Biosynthesis of other secondary metabolites,5,SD_QD_2023_07_60_ultra_bin_19
+107,Carbohydrate metabolism,9,SD_QD_2023_07_60_ultra_bin_19
+107,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_60_ultra_bin_19
+107,Lipid metabolism,1,SD_QD_2023_07_60_ultra_bin_19
+107,Metabolism of terpenoids and polyketides,5,SD_QD_2023_07_60_ultra_bin_19
+107,Nucleotide metabolism,1,SD_QD_2023_07_60_ultra_bin_19
+106,Carbohydrate metabolism,11,SD_QD_2023_07_60_normal_bin_21
+106,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_60_normal_bin_21
+106,Nucleotide metabolism,2,SD_QD_2023_07_60_normal_bin_21
+105,Amino acid metabolism,1,JS_LYG_2021_05_15_bin_6
+105,Biosynthesis of other secondary metabolites,3,JS_LYG_2021_05_15_bin_6
+105,Energy metabolism,4,JS_LYG_2021_05_15_bin_6
+105,Nucleotide metabolism,5,JS_LYG_2021_05_15_bin_6
+104,Lipid metabolism,1,ZJ_WZ_2021_05_15_bin_5
+104,Metabolism of cofactors and vitamins,1,ZJ_WZ_2021_05_15_bin_5
+104,Nucleotide metabolism,2,ZJ_WZ_2021_05_15_bin_5
+104,Xenobiotics biodegradation and metabolism,1,ZJ_WZ_2021_05_15_bin_5
+103,Amino acid metabolism,1,ZJ_WZ_2021_05_15_bin_15
+103,Energy metabolism,1,ZJ_WZ_2021_05_15_bin_15
+103,Glycan biosynthesis and metabolism,1,ZJ_WZ_2021_05_15_bin_15
+103,Metabolism of cofactors and vitamins,2,ZJ_WZ_2021_05_15_bin_15
+103,Nucleotide metabolism,6,ZJ_WZ_2021_05_15_bin_15
+102,Carbohydrate metabolism,1,ZJ_WZ_2021_05_15_bin_13
+102,Glycan biosynthesis and metabolism,1,ZJ_WZ_2021_05_15_bin_13
+102,Lipid metabolism,1,ZJ_WZ_2021_05_15_bin_13
+102,Metabolism of cofactors and vitamins,1,ZJ_WZ_2021_05_15_bin_13
+102,Nucleotide metabolism,3,ZJ_WZ_2021_05_15_bin_13
+101,Amino acid metabolism,1,ZJ_WZ_2021_05_15_bin_12
+101,Carbohydrate metabolism,5,ZJ_WZ_2021_05_15_bin_12
+101,Energy metabolism,1,ZJ_WZ_2021_05_15_bin_12
+101,Glycan biosynthesis and metabolism,1,ZJ_WZ_2021_05_15_bin_12
+101,Metabolism of cofactors and vitamins,3,ZJ_WZ_2021_05_15_bin_12
+101,Nucleotide metabolism,11,ZJ_WZ_2021_05_15_bin_12
+101,Xenobiotics biodegradation and metabolism,2,ZJ_WZ_2021_05_15_bin_12
+100,Amino acid metabolism,2,ZJ_NB_2021_05_15_bin_2
+100,Carbohydrate metabolism,6,ZJ_NB_2021_05_15_bin_2
+100,Energy metabolism,3,ZJ_NB_2021_05_15_bin_2
+99,Amino acid metabolism,1,ZJ_NB_2021_05_15_bin_14
+99,Biosynthesis of other secondary metabolites,1,ZJ_NB_2021_05_15_bin_14
+99,Carbohydrate metabolism,2,ZJ_NB_2021_05_15_bin_14
+99,Lipid metabolism,1,ZJ_NB_2021_05_15_bin_14
+99,Metabolism of terpenoids and polyketides,2,ZJ_NB_2021_05_15_bin_14
+99,Nucleotide metabolism,9,ZJ_NB_2021_05_15_bin_14
+99,Xenobiotics biodegradation and metabolism,1,ZJ_NB_2021_05_15_bin_14
+98,Amino acid metabolism,1,SD_QD_2023_07_80_normal_bin_3
+98,Carbohydrate metabolism,10,SD_QD_2023_07_80_normal_bin_3
+97,Amino acid metabolism,1,SD_QD_2023_07_60_ultra_bin_2
+97,Biosynthesis of other secondary metabolites,3,SD_QD_2023_07_60_ultra_bin_2
+97,Carbohydrate metabolism,17,SD_QD_2023_07_60_ultra_bin_2
+97,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_60_ultra_bin_2
+97,Lipid metabolism,1,SD_QD_2023_07_60_ultra_bin_2
+97,Metabolism of cofactors and vitamins,2,SD_QD_2023_07_60_ultra_bin_2
+97,Metabolism of terpenoids and polyketides,5,SD_QD_2023_07_60_ultra_bin_2
+96,Biosynthesis of other secondary metabolites,3,SD_QD_2023_07_60_ultra_bin_18
+96,Carbohydrate metabolism,6,SD_QD_2023_07_60_ultra_bin_18
+96,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_60_ultra_bin_18
+96,Lipid metabolism,1,SD_QD_2023_07_60_ultra_bin_18
+96,Metabolism of terpenoids and polyketides,5,SD_QD_2023_07_60_ultra_bin_18
+96,Nucleotide metabolism,5,SD_QD_2023_07_60_ultra_bin_18
+95,Metabolism of cofactors and vitamins,2,SD_QD_2023_07_40_ultra_bin_10
+95,Nucleotide metabolism,4,SD_QD_2023_07_40_ultra_bin_10
+94,Biosynthesis of other secondary metabolites,1,SD_QD_2023_07_100_ultra_bin_12
+94,Carbohydrate metabolism,3,SD_QD_2023_07_100_ultra_bin_12
+94,Metabolism of cofactors and vitamins,2,SD_QD_2023_07_100_ultra_bin_12
+94,Nucleotide metabolism,3,SD_QD_2023_07_100_ultra_bin_12
+94,Xenobiotics biodegradation and metabolism,2,SD_QD_2023_07_100_ultra_bin_12
+93,Amino acid metabolism,1,SD_QD_2020_12_15_bin_3
+93,Carbohydrate metabolism,3,SD_QD_2020_12_15_bin_3
+92,Biosynthesis of other secondary metabolites,3,SD_QD_2020_10_15_bin_7
+92,Carbohydrate metabolism,11,SD_QD_2020_10_15_bin_7
+92,Glycan biosynthesis and metabolism,1,SD_QD_2020_10_15_bin_7
+92,Lipid metabolism,1,SD_QD_2020_10_15_bin_7
+92,Metabolism of cofactors and vitamins,2,SD_QD_2020_10_15_bin_7
+92,Metabolism of terpenoids and polyketides,5,SD_QD_2020_10_15_bin_7
+91,Amino acid metabolism,3,SD_QD_2020_10_15_bin_4
+91,Carbohydrate metabolism,4,SD_QD_2020_10_15_bin_4
+91,Energy metabolism,1,SD_QD_2020_10_15_bin_4
+91,Metabolism of cofactors and vitamins,2,SD_QD_2020_10_15_bin_4
+90,Metabolism of cofactors and vitamins,1,SD_QD_2020_08_15_bin_2
+90,Nucleotide metabolism,2,SD_QD_2020_08_15_bin_2
+89,Lipid metabolism,1,SD_QD_2020_06_15_bin_8
+89,Metabolism of cofactors and vitamins,9,SD_QD_2020_06_15_bin_8
+89,Nucleotide metabolism,5,SD_QD_2020_06_15_bin_8
+88,Amino acid metabolism,6,SD_QD_2020_06_15_bin_46
+88,Biosynthesis of other secondary metabolites,2,SD_QD_2020_06_15_bin_46
+88,Carbohydrate metabolism,17,SD_QD_2020_06_15_bin_46
+88,Energy metabolism,1,SD_QD_2020_06_15_bin_46
+88,Lipid metabolism,3,SD_QD_2020_06_15_bin_46
+88,Metabolism of cofactors and vitamins,9,SD_QD_2020_06_15_bin_46
+88,Nucleotide metabolism,6,SD_QD_2020_06_15_bin_46
+87,Amino acid metabolism,2,SD_QD_2020_06_15_bin_42
+87,Biosynthesis of other secondary metabolites,2,SD_QD_2020_06_15_bin_42
+87,Carbohydrate metabolism,1,SD_QD_2020_06_15_bin_42
+87,Lipid metabolism,2,SD_QD_2020_06_15_bin_42
+87,Metabolism of terpenoids and polyketides,1,SD_QD_2020_06_15_bin_42
+87,Nucleotide metabolism,1,SD_QD_2020_06_15_bin_42
+86,Carbohydrate metabolism,3,SD_QD_2020_06_15_bin_1
+86,Lipid metabolism,1,SD_QD_2020_06_15_bin_1
+86,Metabolism of cofactors and vitamins,3,SD_QD_2020_06_15_bin_1
+86,Nucleotide metabolism,3,SD_QD_2020_06_15_bin_1
+84,Lipid metabolism,1,HN_SY_2021_04_15_bin_2
+84,Metabolism of cofactors and vitamins,10,HN_SY_2021_04_15_bin_2
+84,Nucleotide metabolism,4,HN_SY_2021_04_15_bin_2
+83,Lipid metabolism,1,GD_ZH_2021_05_15_bin_2
+83,Metabolism of cofactors and vitamins,4,GD_ZH_2021_05_15_bin_2
+83,Nucleotide metabolism,9,GD_ZH_2021_05_15_bin_2
+83,Xenobiotics biodegradation and metabolism,3,GD_ZH_2021_05_15_bin_2
+82,Carbohydrate metabolism,2,GD_ST_2021_04_15_bin_1
+82,Energy metabolism,2,GD_ST_2021_04_15_bin_1
+82,Metabolism of cofactors and vitamins,8,GD_ST_2021_04_15_bin_1
+82,Nucleotide metabolism,9,GD_ST_2021_04_15_bin_1
+82,Xenobiotics biodegradation and metabolism,2,GD_ST_2021_04_15_bin_1
+81,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_80_ultra_bin_11
+81,Nucleotide metabolism,1,SD_QD_2023_07_80_ultra_bin_11
+80,Nucleotide metabolism,2,SD_QD_2023_07_20_normal_bin_4
+79,Amino acid metabolism,1,JS_LYG_2021_05_15_bin_2
+79,Carbohydrate metabolism,3,JS_LYG_2021_05_15_bin_2
+79,Glycan biosynthesis and metabolism,1,JS_LYG_2021_05_15_bin_2
+79,Lipid metabolism,1,JS_LYG_2021_05_15_bin_2
+79,Metabolism of cofactors and vitamins,3,JS_LYG_2021_05_15_bin_2
+79,Nucleotide metabolism,2,JS_LYG_2021_05_15_bin_2
+78,Amino acid metabolism,2,ZJ_NB_2021_05_15_bin_21
+78,Carbohydrate metabolism,1,ZJ_NB_2021_05_15_bin_21
+78,Energy metabolism,1,ZJ_NB_2021_05_15_bin_21
+78,Glycan biosynthesis and metabolism,1,ZJ_NB_2021_05_15_bin_21
+78,Nucleotide metabolism,2,ZJ_NB_2021_05_15_bin_21
+78,Xenobiotics biodegradation and metabolism,1,ZJ_NB_2021_05_15_bin_21
+77,Lipid metabolism,1,SD_QD_2023_07_60_ultra_bin_3
+76,Biosynthesis of other secondary metabolites,2,SD_QD_2020_06_15_bin_5
+76,Energy metabolism,3,SD_QD_2020_06_15_bin_5
+76,Metabolism of cofactors and vitamins,4,SD_QD_2020_06_15_bin_5
+76,Nucleotide metabolism,6,SD_QD_2020_06_15_bin_5
+76,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_5
+75,Energy metabolism,1,GX_BH_2021_04_15_bin_1
+75,Nucleotide metabolism,5,GX_BH_2021_04_15_bin_1
+75,Xenobiotics biodegradation and metabolism,1,GX_BH_2021_04_15_bin_1
+74,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_80_normal_bin_5
+74,Nucleotide metabolism,2,SD_QD_2023_07_80_normal_bin_5
+73,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_40_ultra_bin_1
+73,Nucleotide metabolism,2,SD_QD_2023_07_40_ultra_bin_1
+72,Glycan biosynthesis and metabolism,1,SD_QD_2020_06_15_bin_28
+72,Nucleotide metabolism,4,SD_QD_2020_06_15_bin_28
+71,Amino acid metabolism,2,GX_BH_2021_04_15_bin_3
+71,Metabolism of cofactors and vitamins,7,GX_BH_2021_04_15_bin_3
+71,Metabolism of other amino acids,1,GX_BH_2021_04_15_bin_3
+71,Nucleotide metabolism,4,GX_BH_2021_04_15_bin_3
+,Nucleotide metabolism,,ZJ_NB_2021_05_15_bin_22
+70,Lipid metabolism,1,ZJ_NB_2021_05_15_bin_20
+70,Metabolism of other amino acids,1,ZJ_NB_2021_05_15_bin_20
+70,Nucleotide metabolism,5,ZJ_NB_2021_05_15_bin_20
+70,Xenobiotics biodegradation and metabolism,1,ZJ_NB_2021_05_15_bin_20
+69,Glycan biosynthesis and metabolism,2,SD_QD_2023_07_80_ultra_bin_19
+69,Metabolism of cofactors and vitamins,2,SD_QD_2023_07_80_ultra_bin_19
+69,Nucleotide metabolism,4,SD_QD_2023_07_80_ultra_bin_19
+69,Xenobiotics biodegradation and metabolism,1,SD_QD_2023_07_80_ultra_bin_19
+68,Carbohydrate metabolism,4,SD_QD_2023_07_40_ultra_bin_16
+68,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_40_ultra_bin_16
+68,Nucleotide metabolism,2,SD_QD_2023_07_40_ultra_bin_16
+67,Biosynthesis of other secondary metabolites,1,SD_QD_2023_07_20_normal_bin_3
+67,Carbohydrate metabolism,5,SD_QD_2023_07_20_normal_bin_3
+67,Energy metabolism,1,SD_QD_2023_07_20_normal_bin_3
+67,Metabolism of terpenoids and polyketides,3,SD_QD_2023_07_20_normal_bin_3
+67,Nucleotide metabolism,1,SD_QD_2023_07_20_normal_bin_3
+66,Amino acid metabolism,3,SD_QD_2020_06_15_bin_12
+66,Carbohydrate metabolism,5,SD_QD_2020_06_15_bin_12
+66,Metabolism of other amino acids,1,SD_QD_2020_06_15_bin_12
+66,Nucleotide metabolism,5,SD_QD_2020_06_15_bin_12
+66,Xenobiotics biodegradation and metabolism,2,SD_QD_2020_06_15_bin_12
+65,Amino acid metabolism,4,LN_DD_2021_06_15_bin_5
+65,Carbohydrate metabolism,3,LN_DD_2021_06_15_bin_5
+65,Glycan biosynthesis and metabolism,1,LN_DD_2021_06_15_bin_5
+65,Lipid metabolism,1,LN_DD_2021_06_15_bin_5
+65,Metabolism of cofactors and vitamins,2,LN_DD_2021_06_15_bin_5
+65,Metabolism of other amino acids,1,LN_DD_2021_06_15_bin_5
+65,Nucleotide metabolism,7,LN_DD_2021_06_15_bin_5
+65,Xenobiotics biodegradation and metabolism,3,LN_DD_2021_06_15_bin_5
+64,Metabolism of cofactors and vitamins,2,GD_ZH_2021_05_15_bin_1
+64,Metabolism of other amino acids,1,GD_ZH_2021_05_15_bin_1
+64,Nucleotide metabolism,1,GD_ZH_2021_05_15_bin_1
+63,Lipid metabolism,1,ZJ_WZ_2021_05_15_bin_11
+63,Metabolism of cofactors and vitamins,3,ZJ_WZ_2021_05_15_bin_11
+63,Metabolism of other amino acids,1,ZJ_WZ_2021_05_15_bin_11
+63,Nucleotide metabolism,3,ZJ_WZ_2021_05_15_bin_11
+63,Xenobiotics biodegradation and metabolism,1,ZJ_WZ_2021_05_15_bin_11
+62,Carbohydrate metabolism,10,ZJ_NB_2021_05_15_bin_5
+62,Metabolism of cofactors and vitamins,2,ZJ_NB_2021_05_15_bin_5
+62,Metabolism of other amino acids,1,ZJ_NB_2021_05_15_bin_5
+62,Nucleotide metabolism,4,ZJ_NB_2021_05_15_bin_5
+62,Xenobiotics biodegradation and metabolism,2,ZJ_NB_2021_05_15_bin_5
+61,Amino acid metabolism,1,ZJ_NB_2021_05_15_bin_12
+61,Nucleotide metabolism,2,ZJ_NB_2021_05_15_bin_12
+60,Amino acid metabolism,1,SD_QD_2023_07_80_ultra_bin_14
+60,Carbohydrate metabolism,10,SD_QD_2023_07_80_ultra_bin_14
+60,Energy metabolism,1,SD_QD_2023_07_80_ultra_bin_14
+60,Glycan biosynthesis and metabolism,2,SD_QD_2023_07_80_ultra_bin_14
+60,Metabolism of cofactors and vitamins,6,SD_QD_2023_07_80_ultra_bin_14
+60,Nucleotide metabolism,3,SD_QD_2023_07_80_ultra_bin_14
+60,Xenobiotics biodegradation and metabolism,1,SD_QD_2023_07_80_ultra_bin_14
+59,Amino acid metabolism,3,SD_QD_2023_07_40_ultra_bin_9
+59,Metabolism of cofactors and vitamins,4,SD_QD_2023_07_40_ultra_bin_9
+59,Metabolism of other amino acids,1,SD_QD_2023_07_40_ultra_bin_9
+59,Nucleotide metabolism,4,SD_QD_2023_07_40_ultra_bin_9
+59,Xenobiotics biodegradation and metabolism,2,SD_QD_2023_07_40_ultra_bin_9
+58,Amino acid metabolism,1,SD_QD_2021_02_15_bin_4
+58,Glycan biosynthesis and metabolism,1,SD_QD_2021_02_15_bin_4
+58,Lipid metabolism,1,SD_QD_2021_02_15_bin_4
+57,Amino acid metabolism,1,SD_QD_2020_12_15_bin_6
+57,Nucleotide metabolism,4,SD_QD_2020_12_15_bin_6
+56,Amino acid metabolism,4,SD_QD_2020_06_15_bin_6
+56,Carbohydrate metabolism,1,SD_QD_2020_06_15_bin_6
+56,Metabolism of other amino acids,2,SD_QD_2020_06_15_bin_6
+56,Nucleotide metabolism,6,SD_QD_2020_06_15_bin_6
+56,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_6
+55,Amino acid metabolism,5,SD_QD_2020_06_15_bin_26
+55,Biosynthesis of other secondary metabolites,1,SD_QD_2020_06_15_bin_26
+55,Carbohydrate metabolism,10,SD_QD_2020_06_15_bin_26
+55,Glycan biosynthesis and metabolism,1,SD_QD_2020_06_15_bin_26
+55,Lipid metabolism,3,SD_QD_2020_06_15_bin_26
+55,Metabolism of terpenoids and polyketides,2,SD_QD_2020_06_15_bin_26
+54,Amino acid metabolism,2,SD_QD_2020_06_15_bin_14
+54,Carbohydrate metabolism,2,SD_QD_2020_06_15_bin_14
+54,Glycan biosynthesis and metabolism,1,SD_QD_2020_06_15_bin_14
+54,Lipid metabolism,1,SD_QD_2020_06_15_bin_14
+54,Nucleotide metabolism,2,SD_QD_2020_06_15_bin_14
+53,Amino acid metabolism,1,SD_DY_2021_06_15_bin_6
+53,Metabolism of cofactors and vitamins,3,SD_DY_2021_06_15_bin_6
+53,Nucleotide metabolism,3,SD_DY_2021_06_15_bin_6
+53,Xenobiotics biodegradation and metabolism,2,SD_DY_2021_06_15_bin_6
+52,Amino acid metabolism,4,LN_DD_2021_06_15_bin_9
+52,Carbohydrate metabolism,3,LN_DD_2021_06_15_bin_9
+52,Metabolism of cofactors and vitamins,3,LN_DD_2021_06_15_bin_9
+52,Nucleotide metabolism,5,LN_DD_2021_06_15_bin_9
+52,Xenobiotics biodegradation and metabolism,1,LN_DD_2021_06_15_bin_9
+51,Amino acid metabolism,3,LN_DD_2021_06_15_bin_8
+51,Carbohydrate metabolism,6,LN_DD_2021_06_15_bin_8
+51,Metabolism of cofactors and vitamins,1,LN_DD_2021_06_15_bin_8
+51,Nucleotide metabolism,4,LN_DD_2021_06_15_bin_8
+50,Amino acid metabolism,2,JS_YC_2021_05_15_bin_6
+50,Carbohydrate metabolism,1,JS_YC_2021_05_15_bin_6
+50,Lipid metabolism,2,JS_YC_2021_05_15_bin_6
+50,Nucleotide metabolism,3,JS_YC_2021_05_15_bin_6
+49,Amino acid metabolism,3,GD_ZH_2021_05_15_bin_3
+49,Carbohydrate metabolism,7,GD_ZH_2021_05_15_bin_3
+49,Glycan biosynthesis and metabolism,1,GD_ZH_2021_05_15_bin_3
+49,Lipid metabolism,4,GD_ZH_2021_05_15_bin_3
+49,Metabolism of cofactors and vitamins,3,GD_ZH_2021_05_15_bin_3
+49,Metabolism of other amino acids,1,GD_ZH_2021_05_15_bin_3
+49,Nucleotide metabolism,4,GD_ZH_2021_05_15_bin_3
+49,Xenobiotics biodegradation and metabolism,1,GD_ZH_2021_05_15_bin_3
+48,Lipid metabolism,1,SD_QD_2023_07_60_normal_bin_5
+48,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_60_normal_bin_5
+48,Nucleotide metabolism,4,SD_QD_2023_07_60_normal_bin_5
+47,Amino acid metabolism,4,SD_QD_2023_07_40_ultra_bin_12
+47,Carbohydrate metabolism,1,SD_QD_2023_07_40_ultra_bin_12
+47,Glycan biosynthesis and metabolism,2,SD_QD_2023_07_40_ultra_bin_12
+47,Metabolism of other amino acids,1,SD_QD_2023_07_40_ultra_bin_12
+47,Nucleotide metabolism,2,SD_QD_2023_07_40_ultra_bin_12
+47,Xenobiotics biodegradation and metabolism,1,SD_QD_2023_07_40_ultra_bin_12
+46,Amino acid metabolism,2,SD_QD_2023_07_40_normal_bin_17
+46,Biosynthesis of other secondary metabolites,1,SD_QD_2023_07_40_normal_bin_17
+46,Carbohydrate metabolism,15,SD_QD_2023_07_40_normal_bin_17
+46,Energy metabolism,2,SD_QD_2023_07_40_normal_bin_17
+46,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_40_normal_bin_17
+46,Lipid metabolism,3,SD_QD_2023_07_40_normal_bin_17
+46,Metabolism of cofactors and vitamins,2,SD_QD_2023_07_40_normal_bin_17
+46,Metabolism of terpenoids and polyketides,3,SD_QD_2023_07_40_normal_bin_17
+46,Nucleotide metabolism,5,SD_QD_2023_07_40_normal_bin_17
+46,Xenobiotics biodegradation and metabolism,2,SD_QD_2023_07_40_normal_bin_17
+45,Amino acid metabolism,1,SD_QD_2023_07_100_ultra_bin_1
+45,Carbohydrate metabolism,7,SD_QD_2023_07_100_ultra_bin_1
+45,Energy metabolism,1,SD_QD_2023_07_100_ultra_bin_1
+45,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_100_ultra_bin_1
+45,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_100_ultra_bin_1
+45,Nucleotide metabolism,2,SD_QD_2023_07_100_ultra_bin_1
+45,Xenobiotics biodegradation and metabolism,1,SD_QD_2023_07_100_ultra_bin_1
+44,Nucleotide metabolism,1,SD_QD_2020_08_15_bin_3
+44,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_08_15_bin_3
+43,Amino acid metabolism,1,SD_QD_2020_06_15_bin_44
+43,Metabolism of other amino acids,1,SD_QD_2020_06_15_bin_44
+43,Nucleotide metabolism,2,SD_QD_2020_06_15_bin_44
+43,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_44
+42,Carbohydrate metabolism,2,SD_QD_2020_06_15_bin_40
+42,Lipid metabolism,1,SD_QD_2020_06_15_bin_40
+42,Metabolism of cofactors and vitamins,2,SD_QD_2020_06_15_bin_40
+42,Nucleotide metabolism,2,SD_QD_2020_06_15_bin_40
+42,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_40
+41,Amino acid metabolism,2,SD_QD_2020_06_15_bin_29
+41,Glycan biosynthesis and metabolism,2,SD_QD_2020_06_15_bin_29
+41,Lipid metabolism,2,SD_QD_2020_06_15_bin_29
+41,Metabolism of other amino acids,1,SD_QD_2020_06_15_bin_29
+40,Amino acid metabolism,3,SD_QD_2020_06_15_bin_20
+40,Biosynthesis of other secondary metabolites,2,SD_QD_2020_06_15_bin_20
+40,Carbohydrate metabolism,10,SD_QD_2020_06_15_bin_20
+40,Energy metabolism,7,SD_QD_2020_06_15_bin_20
+40,Metabolism of cofactors and vitamins,1,SD_QD_2020_06_15_bin_20
+40,Nucleotide metabolism,11,SD_QD_2020_06_15_bin_20
+40,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_20
+39,Carbohydrate metabolism,3,JS_YC_2021_05_15_bin_12
+38,Amino acid metabolism,4,ZJ_WZ_2021_05_15_bin_4
+38,Carbohydrate metabolism,5,ZJ_WZ_2021_05_15_bin_4
+38,Energy metabolism,4,ZJ_WZ_2021_05_15_bin_4
+38,Metabolism of cofactors and vitamins,6,ZJ_WZ_2021_05_15_bin_4
+38,Metabolism of other amino acids,1,ZJ_WZ_2021_05_15_bin_4
+38,Nucleotide metabolism,5,ZJ_WZ_2021_05_15_bin_4
+37,Amino acid metabolism,2,ZJ_NB_2021_05_15_bin_9
+37,Carbohydrate metabolism,17,ZJ_NB_2021_05_15_bin_9
+37,Glycan biosynthesis and metabolism,3,ZJ_NB_2021_05_15_bin_9
+37,Metabolism of cofactors and vitamins,2,ZJ_NB_2021_05_15_bin_9
+37,Metabolism of other amino acids,1,ZJ_NB_2021_05_15_bin_9
+37,Nucleotide metabolism,8,ZJ_NB_2021_05_15_bin_9
+37,Xenobiotics biodegradation and metabolism,3,ZJ_NB_2021_05_15_bin_9
+36,Amino acid metabolism,7,ZJ_NB_2021_05_15_bin_4
+36,Carbohydrate metabolism,2,ZJ_NB_2021_05_15_bin_4
+36,Energy metabolism,1,ZJ_NB_2021_05_15_bin_4
+36,Glycan biosynthesis and metabolism,2,ZJ_NB_2021_05_15_bin_4
+36,Metabolism of cofactors and vitamins,2,ZJ_NB_2021_05_15_bin_4
+36,Nucleotide metabolism,1,ZJ_NB_2021_05_15_bin_4
+35,Amino acid metabolism,2,ZJ_NB_2021_05_15_bin_17
+35,Carbohydrate metabolism,3,ZJ_NB_2021_05_15_bin_17
+35,Energy metabolism,1,ZJ_NB_2021_05_15_bin_17
+35,Glycan biosynthesis and metabolism,7,ZJ_NB_2021_05_15_bin_17
+35,Lipid metabolism,1,ZJ_NB_2021_05_15_bin_17
+35,Metabolism of cofactors and vitamins,3,ZJ_NB_2021_05_15_bin_17
+35,Nucleotide metabolism,6,ZJ_NB_2021_05_15_bin_17
+35,Xenobiotics biodegradation and metabolism,1,ZJ_NB_2021_05_15_bin_17
+34,Amino acid metabolism,1,SD_QD_2023_07_80_ultra_bin_7
+34,Carbohydrate metabolism,4,SD_QD_2023_07_80_ultra_bin_7
+34,Lipid metabolism,1,SD_QD_2023_07_80_ultra_bin_7
+34,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_80_ultra_bin_7
+34,Metabolism of other amino acids,1,SD_QD_2023_07_80_ultra_bin_7
+34,Nucleotide metabolism,3,SD_QD_2023_07_80_ultra_bin_7
+34,Xenobiotics biodegradation and metabolism,1,SD_QD_2023_07_80_ultra_bin_7
+33,Amino acid metabolism,2,SD_QD_2023_07_80_ultra_bin_3
+33,Carbohydrate metabolism,10,SD_QD_2023_07_80_ultra_bin_3
+33,Energy metabolism,2,SD_QD_2023_07_80_ultra_bin_3
+33,Lipid metabolism,1,SD_QD_2023_07_80_ultra_bin_3
+33,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_80_ultra_bin_3
+33,Metabolism of other amino acids,1,SD_QD_2023_07_80_ultra_bin_3
+33,Nucleotide metabolism,11,SD_QD_2023_07_80_ultra_bin_3
+33,Xenobiotics biodegradation and metabolism,3,SD_QD_2023_07_80_ultra_bin_3
+32,Amino acid metabolism,2,SD_QD_2023_07_80_ultra_bin_21
+32,Carbohydrate metabolism,4,SD_QD_2023_07_80_ultra_bin_21
+32,Metabolism of cofactors and vitamins,6,SD_QD_2023_07_80_ultra_bin_21
+32,Metabolism of other amino acids,1,SD_QD_2023_07_80_ultra_bin_21
+32,Nucleotide metabolism,6,SD_QD_2023_07_80_ultra_bin_21
+32,Xenobiotics biodegradation and metabolism,2,SD_QD_2023_07_80_ultra_bin_21
+31,Amino acid metabolism,6,SD_QD_2023_07_80_normal_bin_18
+31,Biosynthesis of other secondary metabolites,2,SD_QD_2023_07_80_normal_bin_18
+31,Carbohydrate metabolism,2,SD_QD_2023_07_80_normal_bin_18
+31,Energy metabolism,4,SD_QD_2023_07_80_normal_bin_18
+31,Lipid metabolism,1,SD_QD_2023_07_80_normal_bin_18
+31,Metabolism of cofactors and vitamins,6,SD_QD_2023_07_80_normal_bin_18
+31,Nucleotide metabolism,7,SD_QD_2023_07_80_normal_bin_18
+31,Xenobiotics biodegradation and metabolism,1,SD_QD_2023_07_80_normal_bin_18
+30,Amino acid metabolism,4,SD_QD_2023_07_80_normal_bin_14
+30,Carbohydrate metabolism,5,SD_QD_2023_07_80_normal_bin_14
+30,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_80_normal_bin_14
+30,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_80_normal_bin_14
+30,Metabolism of other amino acids,2,SD_QD_2023_07_80_normal_bin_14
+30,Nucleotide metabolism,9,SD_QD_2023_07_80_normal_bin_14
+30,Xenobiotics biodegradation and metabolism,4,SD_QD_2023_07_80_normal_bin_14
+29,Amino acid metabolism,1,SD_QD_2023_07_80_normal_bin_13
+29,Carbohydrate metabolism,4,SD_QD_2023_07_80_normal_bin_13
+29,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_80_normal_bin_13
+29,Nucleotide metabolism,11,SD_QD_2023_07_80_normal_bin_13
+29,Xenobiotics biodegradation and metabolism,8,SD_QD_2023_07_80_normal_bin_13
+28,Amino acid metabolism,6,SD_QD_2023_07_60_ultra_bin_7
+28,Carbohydrate metabolism,8,SD_QD_2023_07_60_ultra_bin_7
+28,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_60_ultra_bin_7
+28,Metabolism of other amino acids,1,SD_QD_2023_07_60_ultra_bin_7
+28,Nucleotide metabolism,7,SD_QD_2023_07_60_ultra_bin_7
+28,Xenobiotics biodegradation and metabolism,4,SD_QD_2023_07_60_ultra_bin_7
+27,Amino acid metabolism,4,SD_QD_2023_07_100_ultra_bin_9
+27,Carbohydrate metabolism,6,SD_QD_2023_07_100_ultra_bin_9
+27,Energy metabolism,4,SD_QD_2023_07_100_ultra_bin_9
+27,Lipid metabolism,2,SD_QD_2023_07_100_ultra_bin_9
+27,Metabolism of cofactors and vitamins,8,SD_QD_2023_07_100_ultra_bin_9
+27,Nucleotide metabolism,4,SD_QD_2023_07_100_ultra_bin_9
+27,Xenobiotics biodegradation and metabolism,1,SD_QD_2023_07_100_ultra_bin_9
+26,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_100_ultra_bin_3
+26,Metabolism of cofactors and vitamins,1,SD_QD_2023_07_100_ultra_bin_3
+26,Metabolism of other amino acids,1,SD_QD_2023_07_100_ultra_bin_3
+26,Nucleotide metabolism,10,SD_QD_2023_07_100_ultra_bin_3
+26,Xenobiotics biodegradation and metabolism,2,SD_QD_2023_07_100_ultra_bin_3
+25,Lipid metabolism,1,SD_QD_2021_02_15_bin_5
+25,Metabolism of cofactors and vitamins,2,SD_QD_2021_02_15_bin_5
+25,Metabolism of other amino acids,1,SD_QD_2021_02_15_bin_5
+25,Nucleotide metabolism,4,SD_QD_2021_02_15_bin_5
+25,Xenobiotics biodegradation and metabolism,2,SD_QD_2021_02_15_bin_5
+24,Amino acid metabolism,1,SD_QD_2020_06_15_bin_7
+24,Carbohydrate metabolism,2,SD_QD_2020_06_15_bin_7
+24,Glycan biosynthesis and metabolism,3,SD_QD_2020_06_15_bin_7
+24,Metabolism of cofactors and vitamins,1,SD_QD_2020_06_15_bin_7
+24,Nucleotide metabolism,4,SD_QD_2020_06_15_bin_7
+23,Amino acid metabolism,2,SD_QD_2020_06_15_bin_41
+23,Carbohydrate metabolism,6,SD_QD_2020_06_15_bin_41
+23,Energy metabolism,2,SD_QD_2020_06_15_bin_41
+23,Lipid metabolism,1,SD_QD_2020_06_15_bin_41
+23,Metabolism of cofactors and vitamins,3,SD_QD_2020_06_15_bin_41
+23,Nucleotide metabolism,5,SD_QD_2020_06_15_bin_41
+22,Carbohydrate metabolism,7,SD_QD_2020_06_15_bin_4
+22,Lipid metabolism,1,SD_QD_2020_06_15_bin_4
+22,Metabolism of other amino acids,1,SD_QD_2020_06_15_bin_4
+22,Nucleotide metabolism,7,SD_QD_2020_06_15_bin_4
+22,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_4
+21,Amino acid metabolism,4,SD_QD_2020_06_15_bin_38
+21,Biosynthesis of other secondary metabolites,1,SD_QD_2020_06_15_bin_38
+21,Carbohydrate metabolism,9,SD_QD_2020_06_15_bin_38
+21,Energy metabolism,2,SD_QD_2020_06_15_bin_38
+21,Glycan biosynthesis and metabolism,1,SD_QD_2020_06_15_bin_38
+21,Lipid metabolism,1,SD_QD_2020_06_15_bin_38
+21,Metabolism of cofactors and vitamins,2,SD_QD_2020_06_15_bin_38
+21,Metabolism of terpenoids and polyketides,2,SD_QD_2020_06_15_bin_38
+21,Nucleotide metabolism,10,SD_QD_2020_06_15_bin_38
+21,Xenobiotics biodegradation and metabolism,3,SD_QD_2020_06_15_bin_38
+20,Amino acid metabolism,7,SD_QD_2020_06_15_bin_35
+20,Carbohydrate metabolism,5,SD_QD_2020_06_15_bin_35
+20,Energy metabolism,2,SD_QD_2020_06_15_bin_35
+20,Glycan biosynthesis and metabolism,1,SD_QD_2020_06_15_bin_35
+20,Metabolism of other amino acids,1,SD_QD_2020_06_15_bin_35
+20,Nucleotide metabolism,8,SD_QD_2020_06_15_bin_35
+20,Xenobiotics biodegradation and metabolism,2,SD_QD_2020_06_15_bin_35
+19,Nucleotide metabolism,1,SD_QD_2020_06_15_bin_23
+19,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_23
+18,Amino acid metabolism,8,SD_QD_2020_06_15_bin_13
+18,Biosynthesis of other secondary metabolites,4,SD_QD_2020_06_15_bin_13
+18,Carbohydrate metabolism,25,SD_QD_2020_06_15_bin_13
+18,Energy metabolism,5,SD_QD_2020_06_15_bin_13
+18,Lipid metabolism,1,SD_QD_2020_06_15_bin_13
+18,Metabolism of cofactors and vitamins,3,SD_QD_2020_06_15_bin_13
+18,Metabolism of other amino acids,3,SD_QD_2020_06_15_bin_13
+18,Metabolism of terpenoids and polyketides,6,SD_QD_2020_06_15_bin_13
+18,Nucleotide metabolism,18,SD_QD_2020_06_15_bin_13
+18,Xenobiotics biodegradation and metabolism,4,SD_QD_2020_06_15_bin_13
+17,Carbohydrate metabolism,3,SD_QD_2020_06_15_bin_11
+17,Metabolism of other amino acids,2,SD_QD_2020_06_15_bin_11
+17,Nucleotide metabolism,2,SD_QD_2020_06_15_bin_11
+17,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_11
+16,Amino acid metabolism,3,LN_DD_2021_06_15_bin_2
+16,Biosynthesis of other secondary metabolites,1,LN_DD_2021_06_15_bin_2
+16,Carbohydrate metabolism,23,LN_DD_2021_06_15_bin_2
+16,Glycan biosynthesis and metabolism,12,LN_DD_2021_06_15_bin_2
+16,Lipid metabolism,1,LN_DD_2021_06_15_bin_2
+16,Metabolism of cofactors and vitamins,4,LN_DD_2021_06_15_bin_2
+16,Metabolism of other amino acids,2,LN_DD_2021_06_15_bin_2
+16,Metabolism of terpenoids and polyketides,3,LN_DD_2021_06_15_bin_2
+16,Nucleotide metabolism,9,LN_DD_2021_06_15_bin_2
+16,Xenobiotics biodegradation and metabolism,3,LN_DD_2021_06_15_bin_2
+15,Amino acid metabolism,3,LN_DD_2021_06_15_bin_10
+15,Lipid metabolism,1,LN_DD_2021_06_15_bin_10
+15,Metabolism of cofactors and vitamins,2,LN_DD_2021_06_15_bin_10
+15,Nucleotide metabolism,6,LN_DD_2021_06_15_bin_10
+15,Xenobiotics biodegradation and metabolism,2,LN_DD_2021_06_15_bin_10
+14,Amino acid metabolism,5,LN_DD_2021_06_15_bin_1
+14,Biosynthesis of other secondary metabolites,1,LN_DD_2021_06_15_bin_1
+14,Carbohydrate metabolism,7,LN_DD_2021_06_15_bin_1
+14,Energy metabolism,2,LN_DD_2021_06_15_bin_1
+14,Glycan biosynthesis and metabolism,7,LN_DD_2021_06_15_bin_1
+14,Lipid metabolism,1,LN_DD_2021_06_15_bin_1
+14,Metabolism of cofactors and vitamins,10,LN_DD_2021_06_15_bin_1
+14,Metabolism of other amino acids,1,LN_DD_2021_06_15_bin_1
+14,Metabolism of terpenoids and polyketides,2,LN_DD_2021_06_15_bin_1
+14,Nucleotide metabolism,6,LN_DD_2021_06_15_bin_1
+14,Xenobiotics biodegradation and metabolism,1,LN_DD_2021_06_15_bin_1
+13,Amino acid metabolism,1,JS_YC_2021_05_15_bin_7
+13,Carbohydrate metabolism,1,JS_YC_2021_05_15_bin_7
+13,Lipid metabolism,1,JS_YC_2021_05_15_bin_7
+12,Amino acid metabolism,1,JS_YC_2021_05_15_bin_5
+12,Carbohydrate metabolism,9,JS_YC_2021_05_15_bin_5
+12,Nucleotide metabolism,6,JS_YC_2021_05_15_bin_5
+12,Xenobiotics biodegradation and metabolism,2,JS_YC_2021_05_15_bin_5
+11,Amino acid metabolism,4,JS_LYG_2021_05_15_bin_5
+11,Carbohydrate metabolism,10,JS_LYG_2021_05_15_bin_5
+11,Energy metabolism,1,JS_LYG_2021_05_15_bin_5
+11,Metabolism of cofactors and vitamins,3,JS_LYG_2021_05_15_bin_5
+11,Metabolism of other amino acids,1,JS_LYG_2021_05_15_bin_5
+11,Nucleotide metabolism,7,JS_LYG_2021_05_15_bin_5
+11,Xenobiotics biodegradation and metabolism,3,JS_LYG_2021_05_15_bin_5
+10,Biosynthesis of other secondary metabolites,1,HN_SY_2021_04_15_bin_4
+10,Carbohydrate metabolism,9,HN_SY_2021_04_15_bin_4
+10,Metabolism of cofactors and vitamins,2,HN_SY_2021_04_15_bin_4
+10,Metabolism of other amino acids,1,HN_SY_2021_04_15_bin_4
+10,Metabolism of terpenoids and polyketides,3,HN_SY_2021_04_15_bin_4
+10,Nucleotide metabolism,6,HN_SY_2021_04_15_bin_4
+10,Xenobiotics biodegradation and metabolism,2,HN_SY_2021_04_15_bin_4
+9,Carbohydrate metabolism,10,SD_DY_2021_06_15_bin_1
+9,Lipid metabolism,2,SD_DY_2021_06_15_bin_1
+9,Metabolism of cofactors and vitamins,2,SD_DY_2021_06_15_bin_1
+9,Metabolism of other amino acids,1,SD_DY_2021_06_15_bin_1
+9,Nucleotide metabolism,7,SD_DY_2021_06_15_bin_1
+9,Xenobiotics biodegradation and metabolism,1,SD_DY_2021_06_15_bin_1
+8,Metabolism of cofactors and vitamins,1,JS_YC_2021_05_15_bin_4
+7,Amino acid metabolism,1,JS_YC_2021_05_15_bin_10
+7,Glycan biosynthesis and metabolism,1,JS_YC_2021_05_15_bin_10
+7,Metabolism of cofactors and vitamins,1,JS_YC_2021_05_15_bin_10
+7,Nucleotide metabolism,1,JS_YC_2021_05_15_bin_10
+7,Xenobiotics biodegradation and metabolism,1,JS_YC_2021_05_15_bin_10
+6,Amino acid metabolism,2,ZJ_WZ_2021_05_15_bin_8
+6,Biosynthesis of other secondary metabolites,1,ZJ_WZ_2021_05_15_bin_8
+6,Carbohydrate metabolism,14,ZJ_WZ_2021_05_15_bin_8
+6,Energy metabolism,1,ZJ_WZ_2021_05_15_bin_8
+6,Glycan biosynthesis and metabolism,1,ZJ_WZ_2021_05_15_bin_8
+6,Metabolism of cofactors and vitamins,2,ZJ_WZ_2021_05_15_bin_8
+6,Metabolism of other amino acids,1,ZJ_WZ_2021_05_15_bin_8
+6,Metabolism of terpenoids and polyketides,3,ZJ_WZ_2021_05_15_bin_8
+6,Nucleotide metabolism,7,ZJ_WZ_2021_05_15_bin_8
+6,Xenobiotics biodegradation and metabolism,3,ZJ_WZ_2021_05_15_bin_8
+5,Amino acid metabolism,1,ZJ_NB_2021_05_15_bin_19
+5,Biosynthesis of other secondary metabolites,1,ZJ_NB_2021_05_15_bin_19
+5,Carbohydrate metabolism,19,ZJ_NB_2021_05_15_bin_19
+5,Glycan biosynthesis and metabolism,1,ZJ_NB_2021_05_15_bin_19
+5,Metabolism of cofactors and vitamins,4,ZJ_NB_2021_05_15_bin_19
+5,Metabolism of other amino acids,2,ZJ_NB_2021_05_15_bin_19
+5,Metabolism of terpenoids and polyketides,4,ZJ_NB_2021_05_15_bin_19
+5,Nucleotide metabolism,9,ZJ_NB_2021_05_15_bin_19
+5,Xenobiotics biodegradation and metabolism,2,ZJ_NB_2021_05_15_bin_19
+4,Amino acid metabolism,1,SD_QD_2023_07_80_ultra_bin_15
+3,Carbohydrate metabolism,3,SD_QD_2023_07_40_ultra_bin_3
+3,Glycan biosynthesis and metabolism,1,SD_QD_2023_07_40_ultra_bin_3
+3,Nucleotide metabolism,2,SD_QD_2023_07_40_ultra_bin_3
+2,Amino acid metabolism,1,SD_QD_2020_06_15_bin_37
+2,Biosynthesis of other secondary metabolites,1,SD_QD_2020_06_15_bin_37
+2,Carbohydrate metabolism,3,SD_QD_2020_06_15_bin_37
+2,Metabolism of cofactors and vitamins,1,SD_QD_2020_06_15_bin_37
+2,Metabolism of terpenoids and polyketides,3,SD_QD_2020_06_15_bin_37
+2,Nucleotide metabolism,4,SD_QD_2020_06_15_bin_37
+2,Xenobiotics biodegradation and metabolism,1,SD_QD_2020_06_15_bin_37
+1,Energy metabolism,1,LN_DD_2021_06_15_bin_6
+1,Lipid metabolism,2,LN_DD_2021_06_15_bin_6
+1,Metabolism of cofactors and vitamins,1,LN_DD_2021_06_15_bin_6
+1,Nucleotide metabolism,8,LN_DD_2021_06_15_bin_6
+1,Xenobiotics biodegradation and metabolism,2,LN_DD_2021_06_15_bin_6
